@@ -7,7 +7,7 @@ GreenTech Solutions est une société de service fictive qui développe des appl
 Avec l’accélération du changement climatique et la hausse des prix de l’énergie, la sobriété énergétique est au cœur des préoccupations des Français.
 C’est pourquoi Enedis nous sollicite en vue d’établir un état des lieux de la performance énergétique des logements d’une ville.
 
-Pour se faire , nous avons utiliser Power BI se basant sur 2 bases de données de Data Ademe , le tableau de bord permet ume consultations rapide des princioaux indicateurs de la ville de Lyon.
+Pour ce faire, nous avons utilisé Power BI se basant sur 2 bases de données de Data Ademe, le tableau de bord permet une consultation rapide des principaux indicateurs de la ville de Lyon.
 
 ## Contenu du git
 
