@@ -26,6 +26,6 @@ Pour se faire , nous avons utiliser Power BI se basant sur 2 bases de données d
 
 
 > [!IMPORTANT]
-> Les resources utilisées : [asardell](https://github.com/asardell/IUT_SD1) [Base des logements neufs :](https://data.ademe.fr/datasets/dpe-v2-logements-neufs) [Base des logements existants :](https://data.ademe.fr/datasets/dpe-v2-logements-existants)
+> Les resources utilisées : [asardell](https://github.com/asardell/IUT_SD1), [Base des logements neufs](https://data.ademe.fr/datasets/dpe-v2-logements-neufs), [Base des logements existants](https://data.ademe.fr/datasets/dpe-v2-logements-existants)
 
 > Git by Franklin et Nadji
