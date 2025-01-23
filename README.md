@@ -20,10 +20,10 @@ Auvergne Rhone Alpes , l'application permet ume consultations rapide des princio
 
 ## Contenu du git
 
-1. [Rapport](/rapport.Rmd)
-2. [App Shiny](/application.R)
-3. [Extracteur de données](/extracteur.R)
-4. [Présentation App Shiny](https://ooo.mmhmm.app/watch/z_9liOH6ptEYZGqLu169CK)
+1. [Documentation](/rapport.Rmd)
+2. [Power BI](https://drive.google.com/drive/folders/1CS47PKwywL1j43zN6Gp0cuFqbhoQiKbs?usp=sharing)
+3. [Base de donnée](/extracteur.R)
+4. [Présentation Power BI](https://ooo.mmhmm.app/watch/z_9liOH6ptEYZGqLu169CK)
 
 
 > [!IMPORTANT]
