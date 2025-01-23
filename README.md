@@ -14,7 +14,7 @@ Pour se faire , nous avons utiliser Power BI se basant sur 2 bases de données d
 1. [Documentation](/Doc)
    - Doc Fonctionnel
    - Doc technique
-2. [Power BI](/power BI)
+2. [Power BI](power BI)
    - DPE (tableau de bord CF.Drive pour le télécharger)
    - Maquette du tableau de bord
 3. [Base de donnée](/Data)
