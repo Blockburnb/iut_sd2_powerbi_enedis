@@ -21,7 +21,7 @@ Pour se faire , nous avons utiliser Power BI se basant sur 2 bases de données d
    - dpe (data sur les étiquette dpe)
    - ges (data sur les étiquette ges)
    - logement (data sur les logement CF.Drive pour le télécharger)
-4. [Présentation Power BI](https://ooo.mmhmm.app/watch/z_9liOH6ptEYZGqLu169CK)
+4. [Présentation Power BI](https://ooo.mmhmm.app/watch/z_IxK8IIX1ETq8xO4LbaAf)
 5. [Drive : Projet complet](https://drive.google.com/drive/folders/1CS47PKwywL1j43zN6Gp0cuFqbhoQiKbs?usp=sharing)
 
 
