@@ -14,7 +14,7 @@ Pour se faire , nous avons utiliser Power BI se basant sur 2 bases de données d
 1. [Documentation](/Doc)
    - Doc Fonctionnel
    - Doc technique
-2. [Power BI](power BI)
+2. [Power BI](https://github.com/Blockburnb/iut_sd2_powerbi_enedis/tree/f9a37df399a25a157b9c0a4fa74623f6c1486fcd/power%20BI)
    - DPE (tableau de bord CF.Drive pour le télécharger)
    - Maquette du tableau de bord
 3. [Base de donnée](/Data)
